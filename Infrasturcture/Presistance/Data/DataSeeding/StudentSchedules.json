@@ -1,0 +1,135 @@
+[
+  {
+    "StudentAcademicId": "200012443",
+    "CourseCode": "AI201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Monday",
+    "StartTime": "09:00:00",
+    "EndTime": "10:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall A"
+  },
+  {
+    "StudentAcademicId": "200012443",
+    "CourseCode": "AI342",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Tuesday",
+    "StartTime": "11:00:00",
+    "EndTime": "12:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall B"
+  },
+  {
+    "StudentAcademicId": "200012443",
+    "CourseCode": "CS-251",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Wednesday",
+    "StartTime": "10:00:00",
+    "EndTime": "11:30:00",
+    "Type": "Section",
+    "Hall": "Hall C"
+  },
+  {
+    "StudentAcademicId": "200012443",
+    "CourseCode": "ECE210",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Thursday",
+    "StartTime": "12:00:00",
+    "EndTime": "13:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall D"
+  },
+  {
+    "StudentAcademicId": "200012443",
+    "CourseCode": "ENGL201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Sunday",
+    "StartTime": "08:30:00",
+    "EndTime": "10:00:00",
+    "Type": "Section",
+    "Hall": "Hall E"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "PHY102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Monday",
+    "StartTime": "10:30:00",
+    "EndTime": "12:00:00",
+    "Type": "Lecture",
+    "Hall": "Hall F"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "MATH241",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Tuesday",
+    "StartTime": "09:00:00",
+    "EndTime": "10:30:00",
+    "Type": "Section",
+    "Hall": "Lab 1"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "ENGL201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Wednesday",
+    "StartTime": "12:00:00",
+    "EndTime": "13:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall G"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "PHY102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Thursday",
+    "StartTime": "09:00:00",
+    "EndTime": "10:30:00",
+    "Type": "Section",
+    "Hall": "Lab 2"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "ENGL102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Sunday",
+    "StartTime": "11:00:00",
+    "EndTime": "12:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall H"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "ECE2O2",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Monday",
+    "StartTime": "08:00:00",
+    "EndTime": "09:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall I"
+  },
+  {
+    "StudentAcademicId": "200021775",
+    "CourseCode": "CS211",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024",
+    "Day": "Tuesday",
+    "StartTime": "12:00:00",
+    "EndTime": "13:30:00",
+    "Type": "Lecture",
+    "Hall": "Hall J"
+  }
+ 
+]

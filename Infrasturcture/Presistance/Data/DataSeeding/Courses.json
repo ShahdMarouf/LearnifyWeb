@@ -1,0 +1,252 @@
+[
+  {
+    "CourseCode": "AI201",
+    "CourseName": "Introduction to AI",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI231",
+    "CourseName": "Introduction to Robotics",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI301",
+    "CourseName": "AI Programing Languages",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI302",
+    "CourseName": "Embedded Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI303",
+    "CourseName": "Knowledge Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI312",
+    "CourseName": "Expert Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI341",
+    "CourseName": "Natural Language Processing",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI342",
+    "CourseName": "Introduction to Data Science",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI345",
+    "CourseName": "Industrial Robotics Applicatio",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI346",
+    "CourseName": "AI Applications",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI352",
+    "CourseName": "Internet of Things (IoT)",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI409",
+    "CourseName": "Intelligent Database Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI410",
+    "CourseName": "Computer Vision",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI443",
+    "CourseName": "Machine Learning",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI448",
+    "CourseName": "Advanced Topics in AI",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "AI462",
+    "CourseName": "Artificial Neural Networks",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ARAB101",
+    "CourseName": "Arabic Language",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "COMP101",
+    "CourseName": "Introduction to Computers",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS-201",
+    "CourseName": "Object-Oriented Programming",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS-212",
+    "CourseName": "Data Structures",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS-251",
+    "CourseName": "Computer Architechure",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS-381",
+    "CourseName": "Operating Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS-481",
+    "CourseName": "Pattern Recognition",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS101",
+    "CourseName": "Introduction to Computer ProgramFming",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS102",
+    "CourseName": "Structured Programming",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS211",
+    "CourseName": "Concepts of Programming Language",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS361",
+    "CourseName": "Introduction to Artificial Intelligence",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS371",
+    "CourseName": "Numerical Methods",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS452",
+    "CourseName": "Computer Security",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "CS483",
+    "CourseName": "Computer Interface and Multimedia Systems",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ECE202",
+    "CourseName": "Electronics II",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ECE210",
+    "CourseName": "Electronics For Computers",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ECE2O2",
+    "CourseName": "Logic Design",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ENGL098",
+    "CourseName": "English Language",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ENGL099",
+    "CourseName": "English Language",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ENGL101",
+    "CourseName": "English Language",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ENGL102",
+    "CourseName": "English Language II",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "ENGL201",
+    "CourseName": "English Language III",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "HUMN101",
+    "CourseName": "Behavior Psychology",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "HUMN102",
+    "CourseName": "Scientific Thinking",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "IS101",
+    "CourseName": "Fundamentals of Information Sys.",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "IS231",
+    "CourseName": "Operationa Research",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "MATH.101",
+    "CourseName": "Calculus I",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "MATH099",
+    "CourseName": "Advanced Mathematics",
+    "Credits": 2
+  },
+  {
+    "CourseCode": "MATH102",
+    "CourseName": "Calculus II",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "MATH241",
+    "CourseName": "Linear Algebra",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "MATH251",
+    "CourseName": "Discrete Mathematics",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "MATH301",
+    "CourseName": "Engineering Probability and Statistics",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "PHY101",
+    "CourseName": "Physics",
+    "Credits": 3
+  },
+  {
+    "CourseCode": "PHY102",
+    "CourseName": "Physcis II.",
+    "Credits": 3
+  }
+]

@@ -1,0 +1,697 @@
+[
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Fall",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "COMP101",
+    "Semester": "Fall",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Fall",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "CS101",
+    "Semester": "Spring",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "ENGL099",
+    "Semester": "Spring",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "IS101",
+    "Semester": "Spring",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "MATH.101",
+    "Semester": "Spring",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "PHY101",
+    "Semester": "Spring",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "CS102",
+    "Semester": "Summer",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "MATH102",
+    "Semester": "Summer",
+    "AcademicYear": "2021-2022"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "COMP101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS-201",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS211",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ECE202",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL098",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL099",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH.101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH099",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH241",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY101",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY102",
+    "Semester": "Fall",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS-212",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS-251",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "CS102",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL099",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL102",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "IS101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "IS231",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH.101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH102",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH251",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY101",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY102",
+    "Semester": "Spring",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL101",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "ENGL102",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "IS231",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH102",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH241",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "MATH301",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY101",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "PHY102",
+    "Semester": "Summer",
+    "AcademicYear": "2022-2023"
+  },
+  {
+    "CourseCode": "AI201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI342",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-251",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS211",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ECE210",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ECE2O2",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ENGL101",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ENGL102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ENGL201",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "IS231",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH241",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH301",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "PHY102",
+    "Semester": "Fall",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI201",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI231",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI342",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-201",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-212",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-251",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS361",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS371",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS483",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ECE210",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ENGL102",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ENGL201",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "IS101",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "IS231",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH251",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH301",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "PHY102",
+    "Semester": "Spring",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI201",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS-381",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "CS361",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "ECE210",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "MATH301",
+    "Semester": "Summer",
+    "AcademicYear": "2023-2024"
+  },
+  {
+    "CourseCode": "AI231",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI301",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI303",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI341",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI342",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI462",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-212",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-381",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-481",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS211",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS483",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ECE210",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "IS101",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "MATH301",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "PHY101",
+    "Semester": "Fall",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI302",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI312",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI345",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI346",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI352",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI410",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-481",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS371",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS452",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ECE210",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ENGL201",
+    "Semester": "Spring",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI302",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI409",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI443",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "AI448",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ARAB101",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-251",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-381",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "CS-481",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ENGL102",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "ENGL201",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "HUMN101",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "HUMN102",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "MATH241",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  },
+  {
+    "CourseCode": "MATH251",
+    "Semester": "Summer",
+    "AcademicYear": "2024-2025"
+  }
+]
